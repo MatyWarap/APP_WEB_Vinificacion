@@ -42,6 +42,8 @@ python run app.py
 
 ▫️ Git & GitHub 🔧
 
+ ![image](https://github.com/user-attachments/assets/e3956432-bcd9-41c9-a074-6185ef7da698)
+
 ▫️ HTML 🌐
 
 ▫️ CSS 🎨
