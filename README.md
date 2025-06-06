@@ -1,4 +1,4 @@
-Winery Management: Complete Control of the Winemaking Process
+Winery Management: Control of the Winemaking Process
 
 This full-stack API allows you to manage and optimize every stage of the winemaking process, from grape reception to final bottling. Designed for modern wineries, it offers unprecedented visibility and control over your operations
 
